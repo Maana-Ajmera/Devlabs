@@ -4052,6 +4052,13 @@
     "link": "https://www.codecademy.com/",
     "description": "Codeacdemy empowering all people, regardless of where they are in their coding journeys, to continue to learn, grow, and make an impact on the world around them."
    },
+{
+  "productName": "LinkedIn",
+  "category": "remote",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s",
+  "link": "https://www.linkedin.com/",
+  "description": "LinkedIn is the world's largest professional network with millions of members, offering remote job opportunities across various industries. It provides a platform for professionals to connect, share, and grow their careers."
+},
    {
     "productName": "freecodecamp",
     "category": "course",
